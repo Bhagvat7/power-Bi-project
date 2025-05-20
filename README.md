@@ -56,7 +56,7 @@ Luxury: 84K bookings (62.16%)
 Business: 51K bookings (37.84%)
 This pie chart categorizes bookings, indicating customer preferences.
 
-# Tools Used
+## Tools Used
 
 Microsoft Power BI
 power quary (for data preprocessing)
@@ -66,7 +66,7 @@ Data modeling and relationships
 DAX functions and calculated fields
 Data visualization best practices
 
-# How to Use
+## How to Use
 
 To explore or customize this dashboard:
 
@@ -75,7 +75,7 @@ To explore or customize this dashboard:
 3. Interact with filters and visuals to explore insights.
 
 ## Author
-### [Bhagvat Biradar]
+# [Bhagvat Biradar]
 Aspiring Data Analyst | SQL, Excel, Power BI, Python
-# screenshot 
+## screenshot 
 exp :  ![Dashboard preview](https://github.com/Bhagvat7/power-Bi-project/blob/main/Hospitality%20domain.png)
