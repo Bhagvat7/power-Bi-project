@@ -1,7 +1,7 @@
 # power-Bi-project
 ## Power BI Project – Hospitality Domain
 
-This project presents a comprehensive Power BI dashboard built for the Hospitality Industry, showcasing insights into hotel performance across major Indian cities. The dataset includes hotel ratings, booking platforms, cancellations, occupancy rates, and revenue metrics.
+This project presents a comprehensive Power BI dashboard built for the Hospitality Industry, showcasing insights into hotel performance across major Indian cities. The dataset includes hotel ratings, booking platforms, cancellations, occupancy rates and revenue metrics.
 
 ## Project Objective-
 The goal of this project is to analyze the performance of hotels in four major cities — Mumbai, Bangalore, Hyderabad, and Delhi — and provide valuable insights to management for better decision-making. This analysis helps stakeholders understand booking trends, revenue streams, customer preferences, and operational efficiencies.
