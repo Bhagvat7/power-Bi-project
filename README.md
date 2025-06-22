@@ -76,6 +76,6 @@ To explore or customize this dashboard:
 
 ## Author
 # Bhagvat Biradar
-Aspiring Data Analyst | SQL, Excel, Power BI, Python
+### Aspiring Data Analyst | SQL, Excel, Power BI, Python
 ## screenshot 
 exp :  ![Dashboard preview](https://github.com/Bhagvat7/power-Bi-project/blob/main/Hospitality%20domain.png)
